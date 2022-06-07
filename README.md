@@ -5,7 +5,7 @@ Repositorio del curso de Ciencia de la Computación II (Teoría)
 Eduardo Fabián Rojas Miranda
 
 # Curso: 
-Ciencia de la Compuatcion II - Grupo B
+Ciencia de la Computación II - Grupo B
 
 # Universidad: 
 UNSA
